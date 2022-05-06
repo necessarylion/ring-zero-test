@@ -1,0 +1,15 @@
+{
+    "name": "aj/test-ring-zero",
+    "autoload": {
+        "psr-4": {
+            "Aj\\TestRingZero\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AJ",
+            "email": "necessarylion@gmail.com"
+        }
+    ],
+    "require": {}
+}
